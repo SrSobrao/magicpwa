@@ -18,7 +18,7 @@ self.toolbox.precache(
         './build/vendor.js',
         './build/main.css',
         './build/polyfills.js',
-        './assets/css/mana.mmin.css',
+        './assets/css/mana.min.css',
         './assets/imgs/Back.jpg',
         './assets/imgs/bgloading.jpg',
         './assets/imgs/Loading_icon.gif',
@@ -27,10 +27,10 @@ self.toolbox.precache(
         './assets/fonts/mana.ttf',
         './assets/fonts/mana.woff',
         './assets/fonts/mana.woff2',
-        './assets/fonts/mplatin.eot',
-        './assets/fonts/mplatin.svg',
-        './assets/fonts/mplatin.ttf',
-        './assets/fonts/mplatin.woff',
+        './assets/fonts/mplantin.eot',
+        './assets/fonts/mplantin.svg',
+        './assets/fonts/mplantin.ttf',
+        './assets/fonts/mplantin.woff',
         'index.html',
         'manifest.json'
     ]
